@@ -1,6 +1,6 @@
-Link to question - https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#
+#Link to question - https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#
 
-Solution:
+#Solution:
 
 #User function Template for python3
 
