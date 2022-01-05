@@ -1,6 +1,6 @@
 #Link to question - https://leetcode.com/problems/minimum-size-subarray-sum/
 
-#Solution: O(n) Time Complexity, where N is number of elements in array nums
+#Solution: O(N) Time Complexity, where N is number of elements in array nums
 
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
